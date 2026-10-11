@@ -1,0 +1,306 @@
+{
+  "title": "Chrétientés et islam — contenu de révision",
+  "note": "Synthèses du cours fourni, parties H1 à H9 et H11.",
+  "cards": [
+    {
+      "id": "H1",
+      "title": "Constantinople, nouvelle capitale",
+      "question": "Quelle est la capitale de l’Empire romain en 340 ?",
+      "answers": {
+        "Qui ?": [
+          "<b>Constantin</b>, empereur romain."
+        ],
+        "Quoi ?": [
+          "Il fonde <b>Constantinople</b>, une nouvelle capitale."
+        ],
+        "Quand ?": [
+          "<b>330</b> : fondation de la ville.<br/><b>395</b> : partage de l’Empire."
+        ],
+        "Où ?": [
+          "À <b>Byzance</b>, au bord du Bosphore, entre l’Europe et l’Asie."
+        ],
+        "Pourquoi ?": [
+          "Pour mieux défendre l’Empire et contrôler les routes du commerce."
+        ],
+        "Comment ?": [
+          "Il agrandit la ville, construit des monuments et installe des habitants et un Sénat."
+        ]
+      },
+      "explanation": [
+        "En <b>330</b>, l’empereur romain <b>Constantin</b> fonde Constantinople sur le site de Byzance. Cette ville devient une nouvelle capitale, un lieu où se trouve le pouvoir. Elle est située au bord du Bosphore, entre l’Europe et l’Asie.",
+        "Cette position aide à défendre l’Empire et à contrôler les routes du commerce. Constantin agrandit la ville, fait construire des monuments et y installe des habitants et un Sénat. En 340, cette ville est donc une capitale de l’Empire romain. En <b>395</b>, l’Empire est partagé en deux."
+      ],
+      "remember": "<b>330</b> : Constantin fonde Constantinople, une nouvelle capitale."
+    },
+    {
+      "id": "H2",
+      "title": "L’Empire continue à l’est",
+      "question": "Est-ce que l’Empire romain disparaît vraiment ?",
+      "answers": {
+        "Qui ?": [
+          "<b>Odoacre</b>, qui renverse l’empereur d’Occident ; l’armée d’Orient."
+        ],
+        "Quoi ?": [
+          "L’Empire d’<b>Occident</b> disparaît. Celui d’<b>Orient</b> continue."
+        ],
+        "Quand ?": [
+          "<b>406</b> : invasions en Gaule.<br/><b>476</b> : fin de l’Empire d’Occident."
+        ],
+        "Où ?": [
+          "En <b>Gaule</b>, à l’ouest ; à <b>Constantinople</b>, à l’est."
+        ],
+        "Pourquoi ?": [
+          "L’Occident subit des invasions. En Orient, l’attaque décrite est repoussée."
+        ],
+        "Comment ?": [
+          "À l’ouest, l’empereur est renversé. À l’est, une flotte bat les attaquants sur le Bosphore."
+        ]
+      },
+      "explanation": [
+        "En <b>406</b>, des peuples envahissent la Gaule, dans l’Empire romain d’<b>Occident</b>. Occident signifie ouest. Ces attaques affaiblissent cette partie de l’Empire. En <b>476</b>, le chef <b>Odoacre</b> renverse l’empereur d’Occident.",
+        "L’<b>Orient</b>, situé à l’est, connaît aussi des attaques. Le document raconte qu’une flotte bat les attaquants sur le Bosphore et protège Constantinople. L’Empire romain ne disparaît donc pas entièrement : sa partie orientale continue. Elle est aussi appelée <b>Empire byzantin</b>."
+      ],
+      "remember": "<b>476</b> : fin de l’Empire d’Occident. L’Empire d’Orient continue."
+    },
+    {
+      "id": "H3",
+      "title": "Justinien et l’héritage romain",
+      "question": "Que doit l’Empire byzantin à Justinien ?",
+      "answers": {
+        "Qui ?": [
+          "<b>Justinien</b>, empereur ; <b>Théodora</b>, son épouse ; <b>Bélisaire</b>, son général."
+        ],
+        "Quoi ?": [
+          "Il veut restaurer la puissance de l’ancien Empire romain."
+        ],
+        "Quand ?": [
+          "<b>527–565</b> : règne de Justinien.<br/><b>529</b> : Code de Justinien.<br/><b>532–537</b> : construction de Sainte-Sophie."
+        ],
+        "Où ?": [
+          "À <b>Constantinople</b> ; reconquêtes en Italie et en Afrique du Nord."
+        ],
+        "Pourquoi ?": [
+          "Pour retrouver la puissance de Rome et imposer la religion chrétienne."
+        ],
+        "Comment ?": [
+          "Par les <b>conquêtes</b>, le <b>Code de Justinien</b> et la construction d’<b>églises</b>."
+        ]
+      },
+      "explanation": [
+        "<b>Justinien</b> règne de <b>527 à 565</b> sur l’Empire byzantin. Sa capitale est Constantinople. Son épouse <b>Théodora</b> participe au pouvoir. Il veut restaurer la puissance de l’ancien Empire romain.",
+        "Son général <b>Bélisaire</b> mène les reconquêtes, notamment en Italie et en Afrique du Nord. Reconquérir signifie reprendre un territoire. Le <b>Code de Justinien</b>, daté de <b>529</b> dans le cours, est un recueil de lois qui impose la foi chrétienne. Justinien fait aussi bâtir des églises. À Constantinople, <b>Sainte-Sophie</b> est construite entre <b>532 et 537</b>."
+      ],
+      "remember": "Justinien : <b>reconquérir</b>, faire appliquer des <b>lois</b> et bâtir des <b>églises</b>."
+    },
+    {
+      "id": "H4",
+      "title": "Comprendre l’islam",
+      "question": "Qu’est-ce que l’islam ?",
+      "answers": {
+        "Qui ?": [
+          "<b>Mohammed</b>, ou Mahomet : le prophète des musulmans."
+        ],
+        "Quoi ?": [
+          "Une religion fondée sur la croyance en un seul Dieu, <b>Allah</b>. Livre sacré : le <b>Coran</b>."
+        ],
+        "Quand ?": [
+          "<b>622</b> : Hégire, départ vers Médine.<br/><b>632</b> : mort de Mohammed."
+        ],
+        "Où ?": [
+          "En <b>Arabie</b>, à La Mecque et Médine. Lieu de prière : la <b>mosquée</b>."
+        ],
+        "Pourquoi ?": [
+          "Pour suivre le message de Dieu transmis, selon les musulmans, par Mohammed."
+        ],
+        "Comment ?": [
+          "Les <b>cinq piliers</b> : foi, prière, aumône, jeûne du ramadan et pèlerinage à La Mecque."
+        ]
+      },
+      "explanation": [
+        "L’<b>islam</b> naît en Arabie. Les musulmans croient en un seul Dieu, <b>Allah</b>. Pour eux, <b>Mohammed</b>, aussi appelé Mahomet, est son prophète : il transmet son message. Le Coran est leur livre sacré et la mosquée leur lieu de prière. En <b>622</b>, Mohammed quitte La Mecque pour Médine : c’est l’<b>Hégire</b>. Il meurt en <b>632</b>.",
+        "Les <b>cinq piliers</b> guident la pratique de cette religion. La profession de foi affirme la croyance en Dieu et en son prophète. La prière a lieu cinq fois par jour. L’aumône consiste à aider les pauvres. Le jeûne se pratique pendant le ramadan. Le pèlerinage consiste à aller à La Mecque au moins une fois, si on le peut."
+      ],
+      "remember": "<b>Un seul Dieu</b>, un prophète, un livre sacré et <b>cinq piliers</b>."
+    },
+    {
+      "id": "H5",
+      "title": "L’Empire musulman et Bagdad",
+      "question": "Quel nouvel empire apparaît au VIIe siècle ?",
+      "answers": {
+        "Qui ?": [
+          "Les <b>califes</b>, dont <b>Al-Mansur</b> et <b>Haroun al-Rachid</b>."
+        ],
+        "Quoi ?": [
+          "Un grand <b>Empire musulman</b> se développe après Mohammed."
+        ],
+        "Quand ?": [
+          "<b>642</b> : Égypte conquise.<br/><b>762</b> : Bagdad fondée.<br/><b>1258</b> : Bagdad prise par les Mongols."
+        ],
+        "Où ?": [
+          "De l’Arabie à l’Afrique du Nord et à l’Espagne. <b>Bagdad</b> : Irak actuel."
+        ],
+        "Pourquoi ?": [
+          "Sa puissance repose sur les <b>conquêtes</b> et sa capitale, <b>Bagdad</b>."
+        ],
+        "Comment ?": [
+          "Les armées prennent des territoires. À Alexandrie, le dirigeant accepte de payer un <b>tribut</b>."
+        ]
+      },
+      "explanation": [
+        "Après Mohammed, les <b>califes</b>, chefs politiques et religieux, dirigent un Empire musulman. Au <b>VIIe (7e) siècle</b>, leurs armées conquièrent des territoires. L’Égypte est conquise en <b>642</b>. À Alexandrie, le dirigeant accepte de payer un <b>tribut</b>, une somme versée au vainqueur. L’Empire s’étend de l’Arabie jusqu’à l’Afrique du Nord et à l’Espagne.",
+        "Les conquêtes et une grande capitale renforcent sa puissance. En <b>762</b>, <b>Al-Mansur</b> fonde <b>Bagdad</b>, dans l’Irak actuel. Elle devient la capitale des Abbassides, la famille du calife <b>Haroun al-Rachid</b>. En <b>1258</b>, les Mongols prennent Bagdad."
+      ],
+      "remember": "Les <b>califes</b> dirigent l’Empire musulman. <b>Bagdad</b> est une grande capitale."
+    },
+    {
+      "id": "H6",
+      "title": "L’Empire byzantin",
+      "question": "L’Empire byzantin prolonge-t-il l’Empire romain ?",
+      "answers": {
+        "Qui ?": [
+          "Les empereurs byzantins, dont l’impératrice <b>Irène</b>."
+        ],
+        "Quoi ?": [
+          "L’<b>Empire byzantin</b> est aussi l’Empire romain d’Orient."
+        ],
+        "Quand ?": [
+          "<b>797–802</b> : Irène gouverne.<br/><b>1453</b> : fin de l’Empire."
+        ],
+        "Où ?": [
+          "À l’est de la Méditerranée. Capitale : <b>Constantinople</b>."
+        ],
+        "Pourquoi ?": [
+          "Il prolonge l’Empire romain d’Orient, qui a survécu après <b>476</b>."
+        ],
+        "Comment ?": [
+          "Il conserve un pouvoir impérial. Il est <b>chrétien</b>, utilise le <b>grec</b> et perd des territoires face à ses ennemis."
+        ]
+      },
+      "explanation": [
+        "L’<b>Empire byzantin</b> est aussi appelé Empire romain d’Orient. Il prolonge donc la partie de l’Empire romain qui a survécu après <b>476</b>. Il se situe à l’est de la Méditerranée. Sa capitale est <b>Constantinople</b>. L’impératrice <b>Irène</b> le gouverne de <b>797 à 802</b>.",
+        "Il conserve un pouvoir impérial. Les documents montrent sa religion <b>chrétienne</b> et l’usage du <b>grec</b>. Mais il perd des territoires face à ses ennemis. Le cours décrit les conquêtes arabes, les attaques bulgares, puis la pression des Turcs. L’Empire finit par disparaître en <b>1453</b>."
+      ],
+      "remember": "L’Empire byzantin prolonge l’Empire romain d’Orient jusqu’en <b>1453</b>."
+    },
+    {
+      "id": "H7",
+      "title": "L’Empire de Charlemagne",
+      "question": "L’Empire carolingien fait-il renaître l’Empire romain ?",
+      "answers": {
+        "Qui ?": [
+          "<b>Charlemagne</b>, roi des Francs, couronné par le <b>pape</b>."
+        ],
+        "Quoi ?": [
+          "Un nouvel <b>empire chrétien en Occident</b>."
+        ],
+        "Quand ?": [
+          "<b>25 décembre 800</b> : Charlemagne devient empereur."
+        ],
+        "Où ?": [
+          "En Europe de l’Ouest. Couronnement à <b>Rome</b> ; palais à <b>Aix-la-Chapelle</b>."
+        ],
+        "Pourquoi ?": [
+          "Pour recréer l’Empire romain d’Occident."
+        ],
+        "Comment ?": [
+          "Il conquiert des terres et fait bâtir un palais et une chapelle. Les partages entre héritiers fragilisent ensuite l’empire."
+        ]
+      },
+      "explanation": [
+        "<b>Charlemagne</b>, roi des Francs, veut recréer l’Empire romain d’Occident. Le <b>25 décembre 800</b>, le pape le couronne empereur à <b>Rome</b>. Il existe alors un nouvel empire chrétien en Europe de l’Ouest.",
+        "Charlemagne agrandit son territoire par des conquêtes, mais ne retrouve pas toutes les terres de l’ancien Empire romain. Il fait bâtir un palais et une chapelle à <b>Aix-la-Chapelle</b>. Son empire reste fragile : après lui, les partages entre héritiers provoquent des difficultés. Il s’inspire donc de Rome sans reconstituer entièrement l’ancien empire."
+      ],
+      "remember": "<b>800</b> : Charlemagne est couronné. Son empire s’inspire de <b>Rome</b>."
+    },
+    {
+      "id": "H8",
+      "title": "Des alliances entre les empires",
+      "question": "Comment sont les relations entre les empires vers 800 ?",
+      "answers": {
+        "Qui ?": [
+          "<b>Charlemagne</b>, les Byzantins et le calife <b>Haroun al-Rachid</b>."
+        ],
+        "Quoi ?": [
+          "Les empires cherchent à former des <b>alliances</b>."
+        ],
+        "Quand ?": [
+          "Vers <b>800</b>. La scène étudiée est située entre <b>800 et 802</b>."
+        ],
+        "Où ?": [
+          "À <b>Aix-la-Chapelle</b>, <b>Constantinople</b> et <b>Bagdad</b>, les trois capitales."
+        ],
+        "Pourquoi ?": [
+          "Pour trouver des alliés parmi les autres empires."
+        ],
+        "Comment ?": [
+          "Par des envoyés et des projets de mariage. La miniature montre notamment un <b>éléphant</b>."
+        ]
+      },
+      "explanation": [
+        "Vers <b>800</b>, les empires carolingien, byzantin et musulman cherchent des <b>alliances</b>. Leurs capitales sont Aix-la-Chapelle, Constantinople et Bagdad. Le cours présente <b>Charlemagne</b>, les Byzantins et le calife <b>Haroun al-Rachid</b>.",
+        "Selon la trace écrite, les deux empires chrétiens tentent de s’allier par des projets de mariage, mais ils échouent. Haroun al-Rachid propose alors une alliance à Charlemagne. La miniature représente des événements situés entre <b>800 et 802</b>. Elle montre un envoyé du calife et un <b>éléphant</b>. Un envoyé représente son souverain. Des empires de religions différentes peuvent donc chercher à s’allier."
+      ],
+      "remember": "Des empires de <b>religions différentes</b> peuvent chercher des <b>alliances</b>."
+    },
+    {
+      "id": "H9",
+      "title": "Croisades et Templiers",
+      "question": "Quelles relations entre chrétiens et musulmans vers 1100 ?",
+      "answers": {
+        "Qui ?": [
+          "Les <b>croisés</b>, les <b>Templiers</b> et des chefs musulmans, comme <b>Saladin</b>."
+        ],
+        "Quoi ?": [
+          "Des <b>croisades</b>, mais aussi du commerce et des échanges culturels."
+        ],
+        "Quand ?": [
+          "<b>1095</b> : appel du pape.<br/><b>1099</b> : Jérusalem prise par les croisés.<br/><b>Vers 1118</b> : fondation des Templiers."
+        ],
+        "Où ?": [
+          "De l’Europe de l’Ouest vers <b>Jérusalem</b> et les États latins d’Orient."
+        ],
+        "Pourquoi ?": [
+          "Les croisés veulent reprendre Jérusalem. Les Templiers protègent les <b>pèlerins</b>."
+        ],
+        "Comment ?": [
+          "Les croisés combattent. Les Templiers suivent des règles religieuses et reçoivent des <b>dons</b> et des <b>terres</b>."
+        ]
+      },
+      "explanation": [
+        "En <b>1095</b>, le pape <b>Urbain II</b> appelle à la croisade, une expédition militaire. Les croisés partent de l’Europe de l’Ouest pour reprendre Jérusalem. Ils prennent la ville en <b>1099</b> et fondent les <b>États latins d’Orient</b>. Des chefs musulmans, comme <b>Saladin</b>, reprennent ensuite des territoires. Il existe aussi du commerce et des échanges culturels.",
+        "Vers <b>1118</b>, <b>Hugues de Payns</b> et <b>Geoffroi de Saint-Omer</b> fondent les <b>Templiers</b>. Ces chevaliers religieux protègent les pèlerins qui vont à Jérusalem. Un pèlerin voyage vers un lieu sacré. Les Templiers combattent et suivent des règles religieuses. Ils reçoivent des dons et des terres pour financer leurs activités."
+      ],
+      "remember": "Des <b>guerres</b> et des <b>échanges</b>. Les Templiers protègent les pèlerins."
+    },
+    {
+      "id": "H11",
+      "title": "Le schisme de 1054",
+      "question": "Pourquoi les chrétiens d’Occident et d’Orient s’opposent-ils ?",
+      "answers": {
+        "Qui ?": [
+          "Le <b>pape de Rome</b> et le <b>patriarche de Constantinople</b>, deux chefs religieux."
+        ],
+        "Quoi ?": [
+          "Un <b>schisme</b> : une rupture entre chrétiens catholiques et orthodoxes."
+        ],
+        "Quand ?": [
+          "<b>1054</b> : le schisme étudié dans le document."
+        ],
+        "Où ?": [
+          "À <b>Rome</b>, en Occident, et à <b>Constantinople</b>, en Orient."
+        ],
+        "Pourquoi ?": [
+          "Des désaccords sur les pratiques religieuses et sur l’autorité du pape."
+        ],
+        "Comment ?": [
+          "Les représentants du pape excluent le patriarche et ses partisans de leur Église."
+        ]
+      },
+      "explanation": [
+        "Les chrétiens d’Occident sont liés au <b>pape de Rome</b>. En Orient, le <b>patriarche de Constantinople</b> est un grand chef religieux. Ils s’opposent sur les pratiques religieuses et l’autorité du pape.",
+        "Le texte donne le point de vue des représentants du pape. Il critique notamment le mariage des prêtres d’Orient. En <b>1054</b>, ces représentants excluent le patriarche et ses partisans de leur Église. Le <b>schisme</b> marque une rupture entre catholiques et orthodoxes. Ces deux groupes restent chrétiens."
+      ],
+      "remember": "<b>1054</b> : le schisme marque une rupture entre deux Églises <b>chrétiennes</b>."
+    }
+  ]
+}

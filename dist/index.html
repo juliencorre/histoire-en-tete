@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#153f45">
+  <meta name="description" content="Révise Chrétientés et islam : cours, questions de mémoire, quiz corrigés et contrôle de connaissances.">
+  <title>Histoire en tête — Chrétientés et islam</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.mjs"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Aller au contenu</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#accueil" aria-label="Histoire en tête, accueil"><span class="brand-icon" aria-hidden="true">h.</span><span>Histoire <strong>en tête</strong><small>CHRÉTIENTÉS ET ISLAM</small></span></a>
+      <nav aria-label="Navigation principale">
+        <a href="#cours" data-nav="cours">Réviser</a>
+        <a href="#entrainement" data-nav="entrainement">S’entraîner</a>
+        <a href="#controle" data-nav="controle">Me tester</a>
+        <a href="#progres" data-nav="progres">Mes progrès</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" tabindex="-1"></main>
+  <footer class="site-footer"><span>Un peu chaque jour, en répondant de mémoire.</span><span><a href="cahier-revision.pdf" target="_blank" rel="noopener">Le cahier à imprimer ↗</a><span class="footer-sep">·</span><button type="button" class="link-button" data-action="sources">Sources</button></span><p id="storage-note">Tes résultats sont gardés sur cet appareil.</p></footer>
+  <dialog id="reset-dialog" aria-labelledby="reset-title"><h2 id="reset-title">Effacer mes résultats ?</h2><p>Les scores et les questions à revoir seront effacés sur cet appareil.</p><div class="button-row"><button class="button secondary" data-action="cancel-reset">Garder mes résultats</button><button class="button danger" data-action="confirm-reset">Effacer</button></div></dialog>
+  <dialog id="finish-dialog" aria-labelledby="finish-title"><h2 id="finish-title">Terminer le contrôle ?</h2><p id="finish-warning"></p><div class="button-row"><button class="button secondary" data-action="cancel-finish">Continuer à répondre</button><button class="button" data-action="confirm-finish">Terminer et corriger</button></div></dialog>
+  <dialog id="sources-dialog" aria-labelledby="sources-title"><h2 id="sources-title">Un site fondé sur ta leçon</h2><p>Le contenu reprend les dix parties du cours fourni : H1 à H9 et H11. Les questions et les explications s’appuient sur les fiches de révision revues.</p><p>La méthode associe rappel actif, correction et révisions espacées. Les délais de révision sont des repères pratiques.</p><p><a href="https://doi.org/10.1177/1529100612453266" target="_blank" rel="noopener">Dunlosky et collègues, 2013 ↗</a><br><a href="https://doi.org/10.1007/s10648-021-09595-9" target="_blank" rel="noopener">Agarwal, Nunes et Blunt, 2021 ↗</a></p><button class="button" data-action="close-sources">Fermer</button></dialog>
+  <noscript><p class="noscript">Active JavaScript pour utiliser les quiz et le suivi de révision.</p></noscript>
+</body>
+</html>
