@@ -69,6 +69,27 @@ preparer-contenu.py    Génération des données
 verify.mjs            Vérifications
 ```
 
+## Déployer sur Cloudflare Pages
+
+Dans le tableau de bord Cloudflare, ouvrir **Workers & Pages**, puis **Create application → Pages → Import an existing Git repository**. Connecter GitHub et sélectionner `juliencorre/histoire-en-tete`.
+
+Utiliser ces réglages :
+
+| Réglage | Valeur |
+| --- | --- |
+| Branche de production | `main` |
+| Framework preset | `None` / aucun framework |
+| Root directory | Laisser vide : racine du dépôt |
+| Build command | `exit 0` |
+| Build output directory | `dist` |
+| Variables d’environnement | Aucune nécessaire |
+
+Les fichiers du dossier `dist` sont déjà prêts à être servis. La commande `exit 0` termine l’étape de construction avec succès, sans compilation. Sélectionner **Save and Deploy** pour lancer le premier déploiement.
+
+Cloudflare fournira une adresse en `pages.dev`. Avec l’intégration Git et les déploiements automatiques activés, les prochains changements envoyés sur `main` seront déployés automatiquement.
+
+Références : [déployer un site HTML statique](https://developers.cloudflare.com/pages/framework-guides/deploy-anything/), [configuration de construction](https://developers.cloudflare.com/pages/configuration/build-configuration/) et [intégration Git](https://developers.cloudflare.com/pages/configuration/git-integration/).
+
 ## Hébergement et résultats
 
 Le dossier `dist` peut être servi par un hébergement statique. L’application ne nécessite aucune compilation ni base de données.
